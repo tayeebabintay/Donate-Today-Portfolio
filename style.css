@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-color {
+    color: white;
+}
+
+#font-size {
+    font-size: 50px;
+}
+
+#button-one {
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+}
+
+#section-one {
+    text-align: center;
+    background-image: url(images/donation6.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#div-one {
+    padding: 50px;
+}
+
+
+
+#section-tow {
+    text-align: center;
+}
+
+#pay {
+    display: flex;
+    text-align: center;
+}
+
+.amount-design {}
