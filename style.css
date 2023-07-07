@@ -32,7 +32,7 @@ body {
 
 
 
-#section-tow {
+#section-two {
     text-align: center;
 }
 
@@ -41,4 +41,30 @@ body {
     text-align: center;
 }
 
-.amount-design {}
+.amount-design {
+    background-color: whitesmoke;
+    font-weight: 900;
+    font-size: 30px;
+    margin: 15px;
+    padding: 30px 20px;
+    border-radius: 7px;
+}
+
+#amount {
+    font-weight: 900;
+    font-size: 30px;
+    margin: 15px;
+    padding: 30px 20px;
+    background-color: rgb(247, 196, 178);
+    border-style: solid;
+    border-color: red;
+    border-radius: 7px;
+}
+
+#button-two {
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+}
