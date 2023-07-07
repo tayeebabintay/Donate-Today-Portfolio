@@ -68,3 +68,39 @@ body {
     text-decoration: none;
     color: white;
 }
+
+
+#section-three {
+    text-align: center;
+}
+
+#s2-part2 {
+    display: flex;
+}
+
+#food {
+    background-color: aqua;
+    padding: 10px;
+}
+
+#section-four {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+#image {
+    width: 50px;
+}
+
+#button-three {
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+}
